@@ -7,7 +7,7 @@ Team Name: Trinity
 - [@Utkrisht Singh](https://github.com/utkrisht5)
 - [@Shubham Kushwaha](https://github.com/Shubham-20205157)
 - [@Satyam Agarawal](https://github.com/Satyam107git)
-
+- [@Sudhanshu Kumar](https://github.com/sudhanshu1221)
 ## Proposed Features
 - Login/SignUp
 - Implement music player with functionalities
